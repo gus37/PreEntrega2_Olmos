@@ -1,0 +1,34 @@
+// colors
+$color-lightPrimary: #F2CAB3;
+$color-lightSecondary: #C69FA0;
+$color-lightTertiary: #8C6A56;
+$color-darkPrimary: #260A0F;
+$color-darkSecondary: #40171A;
+$color-callToAction: white;
+$color-black: black;
+$shadow-light: 0 0 15px white;
+// $shadow-dark: ;
+$shadow-img: drop-shadow(0 0 5px white);
+$gradient: linear-gradient(rgba(0, 0, 0, 0.462), rgba(0, 0, 0, 0.462));
+
+// Fonts
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Special+Elite&family=Tangerine&display=swap');
+
+$typewriter: 'Special Elite', cursive;
+$gotic: 'Courgette', cursive;
+$artistic: 'Tangerine', cursive;
+
+// Breakpoints
+$mobile-sm: 420px;
+$tablet-md: 768px;
+$desktop-lg: 1024px;
+$desktop-xl: 1280px;
+
+// buttons
+$button-bottom: #F2CAB3 solid 3px;
+
+// transitions
+$transiton: all 0.3s ease;
+
+// transformations
+$transform: scale(1.3);
